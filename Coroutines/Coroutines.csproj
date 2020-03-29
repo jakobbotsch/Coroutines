@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Jakob Botsch Nielsen</Authors>
+    <Company />
+    <Product />
+    <PackageId>JakobBotsch.Coroutines</PackageId>
+    <PackageProjectUrl>https://github.com/jakobbotsch/Coroutines</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
